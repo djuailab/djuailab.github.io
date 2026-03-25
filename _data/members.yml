@@ -1,11 +1,11 @@
 PI:
-- name: 나교수
-  engName: Gehoon Chung
-  degree: DDS, PhD
-  bio: Electrophysiology, Computational Biology
+- name: 홍용근
+  engName: YongGeun Hong
+  degree: PhD
+  bio: Computer Science
   jobtitle: Associate Professor
   portrait: anonymous.jpg
-  e-mail: gehoon@snu.ac.kr
+  e-mail: yghong@dju.ac.kr
   web: https://wiki.snu.ac.kr/GehoonChung
   scopus: 7102049033
   orcid: 0000-0002-8036-0879
