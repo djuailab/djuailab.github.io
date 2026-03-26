@@ -16,7 +16,7 @@ PI:
   twitter: gehoon
   instagram: gehoon
 
-Members:
+Graduate:
 - name: 전학생
   engName: Byeong-Min Lee
   degree: DDS, BS
@@ -89,7 +89,26 @@ Members:
   twitter:
   instagram:
   
-Past:
+Undergraduate:
+- name: 권민수
+  engName: Minsoo Kwon
+  degree: DDS, BS
+  period: 2011/9-2013/1
+  bio: Kyung Hee University Dental Hospital
+  jobtitle: Resident
+  portrait: 
+  e-mail: donot@mail.com
+  web:
+  scopus:
+  orcid:
+  researcherID:
+  loop:
+  linked: minsoo-kwon-1b609393
+  fb: byeongmin.lee.9
+  twitter:
+  instagram:
+
+Alumni:
 - name: 권민수
   engName: Minsoo Kwon
   degree: DDS, BS
