@@ -10,7 +10,7 @@ affiliation:
     program: #전공
 
 address:
-  building: 대전대학교 융합과학관 # 본관/재료/병원/관악 넷중 하나로 입력
+  building: 대전대학교 # 본관/재료/병원/관악 넷중 하나로 입력
   office: 320호
   lab: 315호
 
